@@ -13,4 +13,4 @@
 
 
 ![](Vol_vs_Time.png)
-![](Swelling Response.gif)
+![](Swelling_Response.gif)
