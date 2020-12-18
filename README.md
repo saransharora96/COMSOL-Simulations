@@ -11,5 +11,5 @@
 * A coarse grid has been used in the simulation to reduce file size to upload on GitHub with solutions and results to help beginners
 * Note: Every time the simulation is run, delete Table 1, regenerate it using Results > Derived Values > Volume Integration and make a table graph to see volume vs time results.  
 #    
-<img src="https://github.com/saransharora96/COMSOL-Simulations/blob/main/Vol_vs_Time.png" height="150">
-<img src="https://github.com/saransharora96/COMSOL-Simulations/blob/main/Swelling_Response.gif" height="150">
+![](Vol_vs_Time.png) 
+<img src="https://github.com/saransharora96/COMSOL-Simulations/blob/main/Swelling_Response.gif" height="258">
