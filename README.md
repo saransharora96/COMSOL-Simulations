@@ -10,3 +10,5 @@
 * Steady state volume difference is useful for characterizing the flow resistance, capacitance etc.  
 * A coarse grid has been used in the simulation to reduce file size to upload on GitHub with solutions and results to help beginners
 * Note: Every time the simulation is run, delete Table 1, regenerate it using Results > Derived Values > Volume Integration and make a table graph to see volume vs time results.
+
+![](Swelling Response.gif)
