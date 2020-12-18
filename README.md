@@ -12,4 +12,4 @@
 * Note: Every time the simulation is run, delete Table 1, regenerate it using Results > Derived Values > Volume Integration and make a table graph to see volume vs time results.  
 #    
 ![](Vol_vs_Time.png)  
-![](Swelling_Response.gif)
+![](Swelling_Response.gif =20x)
