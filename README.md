@@ -13,4 +13,4 @@
 * Time dependent study plots GIF given below at each time step for user.
 #    
 ![](Vol_vs_Time.png) 
-  <img src="https://github.com/saransharora96/COMSOL-Simulations/blob/main/Swelling_Animation.gif" height="256">
+  <img src="https://github.com/saransharora96/COMSOL-Simulations/blob/main/Swelling_Animation.gif" height="252">
